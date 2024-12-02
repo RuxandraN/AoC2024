@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 12:44:10 2024
-
-@author: ruxandran
-
-"""
-
 first, second = [], []
 
 with open('input.txt') as file:
